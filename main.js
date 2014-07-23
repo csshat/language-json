@@ -1,3 +1,3 @@
-exports.render = function (layer) {
-  return JSON.stringify(layer, null, 2)
+exports.render = function (layer, callback) {
+  callback(JSON.stringify(layer, null, 2))
 }
