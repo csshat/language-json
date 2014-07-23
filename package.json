@@ -5,10 +5,10 @@
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/csshat/json"
+    "url": "https://github.com/csshat/language-json"
   },
   "bugs": {
-    "url": "https://github.com/csshat/json/issues"
+    "url": "https://github.com/csshat/language-json/issues"
   },
   "author": "Marek Hrabe <marekhrabe@abdoc.net> (https://github.com/marekhrabe)",
   "license": "MIT"
