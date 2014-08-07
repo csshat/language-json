@@ -1,5 +1,6 @@
 {
   "name": "csshat-language-json",
+  "title": "JSON",
   "version": "1.0.0",
   "description": "JSON language (useful for debugging middlewares)",
   "main": "main.js",
@@ -11,5 +12,11 @@
     "url": "https://github.com/csshat/language-json/issues"
   },
   "author": "Marek Hrabe <marekhrabe@abdoc.net> (https://github.com/marekhrabe)",
-  "license": "MIT"
+  "license": "MIT",
+  "settings": {
+    "indentationSize": {
+      "type": "number",
+      "default": 2
+    }
+  }
 }
