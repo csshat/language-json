@@ -2,7 +2,7 @@
   "name": "csshat-language-json",
   "title": "JSON",
   "version": "1.0.0",
-  "description": "JSON language (useful for debugging middlewares)",
+  "description": "JSON dump of layer data (useful for debugging middlewares)",
   "main": "main.js",
   "repository": {
     "type": "git",
