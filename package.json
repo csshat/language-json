@@ -16,7 +16,8 @@
   "settings": {
     "indentationSize": {
       "type": "number",
-      "default": 2
+      "default": 2,
+      "min": 1
     }
   }
 }
