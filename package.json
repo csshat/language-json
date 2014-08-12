@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "JSON dump of layer data (useful for debugging middlewares)",
   "main": "main.js",
+  "homepage": "https://github.com/csshat/language-json",
   "repository": {
     "type": "git",
     "url": "https://github.com/csshat/language-json"
